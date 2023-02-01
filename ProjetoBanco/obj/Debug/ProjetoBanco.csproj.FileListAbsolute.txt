@@ -1,0 +1,8 @@
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\bin\Debug\ProjetoBanco.exe.config
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\obj\Debug\ProjetoBanco.exe
+C:\Users\mariza.vcosta\source\repos\ProjetoBanco\obj\Debug\ProjetoBanco.pdb
