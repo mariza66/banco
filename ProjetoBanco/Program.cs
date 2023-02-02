@@ -35,9 +35,25 @@ namespace ProjetoBanco
             conta2.conta = "4561";
             conta2.nome = "Luiz";
             conta2.saldo = 600;
+
                 Console.WriteLine("saldo antigo:R$" + conta2.saldo);
                 conta2.Sacar(200);
+            Console.WriteLine("saldo atual da conta que irá transferir:" + conta1.saldo);
+            Console.Write("saldo atual da conta que irá receber:" + conta2.saldo);
+            if (conta1.transferir(50, conta2))
+                Console.WriteLine("\n");
+
+            Console.WriteLine("saldo atual após você transferir:" + conta2.saldo);
+            Console.WriteLine("saldo atual após receber:" + conta1);
                 Console.WriteLine("valor atual saldo:R$" + conta2.saldo);
+            
+
+
+
+
+               
+
+
 
 
 
